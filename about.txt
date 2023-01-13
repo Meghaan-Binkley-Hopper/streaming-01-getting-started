@@ -5,14 +5,14 @@
 
  Welcome! 
 
- It's 2023-01-13 at 08:33 AM
+ It's 2023-01-13 at 04:29 PM
 
  This file is running on:    nt Windows 10
  
- The Python version is:      3.9.13
+ The Python version is:      3.10.8
  
  The Python interpreter is at: 
- C:\Users\meghaan\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\python.exe
+ C:\Users\meghaan\Documents\Binkley-Hopper Personal File\Data Analytics\44-671\streaming-01-getting-started\.conda\python.exe
 
  The active environment should be either conda OR pip (one should be None):
 
@@ -21,7 +21,7 @@
  
  The path to the active virtual environment is:
 
- C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.9_3.9.3568.0_x64__qbz5n2kfra8p0
+ C:\Users\meghaan\Documents\Binkley-Hopper Personal File\Data Analytics\44-671\streaming-01-getting-started\.conda
  
  The Current Working Directory (CWD) where this command was launched is:
 
