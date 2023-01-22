@@ -69,3 +69,4 @@ for row in reader:
 # you may not be able to move or delete the file 
 output_file.close()
 input_file.close()
+conda init
